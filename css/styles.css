@@ -1,0 +1,9 @@
+.vacation-packages div {
+  float: left;
+}
+
+.vacation-packages {
+  margin: auto;
+  width: 80%;
+  height: auto;
+}
